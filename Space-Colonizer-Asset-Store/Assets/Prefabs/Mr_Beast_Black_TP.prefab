@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &4662946141140030702
+--- !u!1 &3631530651122513201
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,46 +8,46 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 5475757450879454804}
-  - component: {fileID: 8958248956300706289}
-  - component: {fileID: 6608716615964013883}
+  - component: {fileID: 4120258533661470603}
+  - component: {fileID: 1045330835179757614}
+  - component: {fileID: 2982849232701363428}
   m_Layer: 0
-  m_Name: greenhouse2
+  m_Name: Mr_Beast_Black_TP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &5475757450879454804
+--- !u!4 &4120258533661470603
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4662946141140030702}
+  m_GameObject: {fileID: 3631530651122513201}
   m_LocalRotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1138391966691249117}
+  m_Father: {fileID: 4166548050244794695}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &8958248956300706289
+--- !u!33 &1045330835179757614
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4662946141140030702}
-  m_Mesh: {fileID: -5015186471967510006, guid: 1b07ceb1000150b43911865c691aaa63, type: 3}
---- !u!23 &6608716615964013883
+  m_GameObject: {fileID: 3631530651122513201}
+  m_Mesh: {fileID: 5068387490662701615, guid: 8e6ab6894378ca24cb4b8d8d875caae7, type: 3}
+--- !u!23 &2982849232701363428
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4662946141140030702}
+  m_GameObject: {fileID: 3631530651122513201}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -61,19 +61,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 62c3ca32a87ac9641b0977db5ce3187d, type: 2}
-  - {fileID: 2100000, guid: 11f34be0b406d5e4e9c89f349334c8b8, type: 2}
-  - {fileID: 2100000, guid: 06aa5c53c8ca1eb4697b66471af5f2b8, type: 2}
-  - {fileID: 2100000, guid: 3ebabd8a9ecb6054db067d3ea356dac5, type: 2}
-  - {fileID: 2100000, guid: f7d7b3d6e5f8ced42b5b2ead31cb07d7, type: 2}
-  - {fileID: 2100000, guid: 63da6749fc9eb5746a1dc1a4c9e69124, type: 2}
-  - {fileID: 2100000, guid: e4ff6f10bc2f2e44daca7fbff2764539, type: 2}
-  - {fileID: 2100000, guid: 46d789fc2457ba44e9476e449b3bb8a8, type: 2}
-  - {fileID: 2100000, guid: a7cecc2db641f994ea4de1eba596c132, type: 2}
-  - {fileID: 2100000, guid: 068628a02f2bf5d499819d256788e64d, type: 2}
-  - {fileID: 2100000, guid: e181e6f17db7f6c469ab0f7708ce28b8, type: 2}
-  - {fileID: 2100000, guid: 0bba6787bb9c8954faeaf41b0d310c45, type: 2}
-  - {fileID: 2100000, guid: 0811021ed6195d4469411e7042213167, type: 2}
+  - {fileID: 2100000, guid: 1cbd9ecc3e3d1464fb764c103e181705, type: 2}
+  - {fileID: 2100000, guid: fae3b5d8403fac841bc1140f5c2b4752, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -95,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!1 &8667869817299873394
+--- !u!1 &8527506042642597502
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -103,27 +92,27 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1138391966691249117}
+  - component: {fileID: 4166548050244794695}
   m_Layer: 0
-  m_Name: greenhouse2
+  m_Name: Mr_Beast_Black_TP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1138391966691249117
+--- !u!4 &4166548050244794695
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8667869817299873394}
+  m_GameObject: {fileID: 8527506042642597502}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 5475757450879454804}
+  - {fileID: 4120258533661470603}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

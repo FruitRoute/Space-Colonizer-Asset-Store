@@ -234,6 +234,67 @@ Transform:
   m_Father: {fileID: 1419280521}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1058309026
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4166548050244794695, guid: b757e61ab82cc8643bd97f56e2983e0b, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4166548050244794695, guid: b757e61ab82cc8643bd97f56e2983e0b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.14955401
+      objectReference: {fileID: 0}
+    - target: {fileID: 4166548050244794695, guid: b757e61ab82cc8643bd97f56e2983e0b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4166548050244794695, guid: b757e61ab82cc8643bd97f56e2983e0b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.2122352
+      objectReference: {fileID: 0}
+    - target: {fileID: 4166548050244794695, guid: b757e61ab82cc8643bd97f56e2983e0b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.93152404
+      objectReference: {fileID: 0}
+    - target: {fileID: 4166548050244794695, guid: b757e61ab82cc8643bd97f56e2983e0b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4166548050244794695, guid: b757e61ab82cc8643bd97f56e2983e0b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.36367986
+      objectReference: {fileID: 0}
+    - target: {fileID: 4166548050244794695, guid: b757e61ab82cc8643bd97f56e2983e0b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4166548050244794695, guid: b757e61ab82cc8643bd97f56e2983e0b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4166548050244794695, guid: b757e61ab82cc8643bd97f56e2983e0b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 42.653
+      objectReference: {fileID: 0}
+    - target: {fileID: 4166548050244794695, guid: b757e61ab82cc8643bd97f56e2983e0b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8527506042642597502, guid: b757e61ab82cc8643bd97f56e2983e0b, type: 3}
+      propertyPath: m_Name
+      value: Mr_Beast_Black_TP
+      objectReference: {fileID: 0}
+    - target: {fileID: 8527506042642597502, guid: b757e61ab82cc8643bd97f56e2983e0b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b757e61ab82cc8643bd97f56e2983e0b, type: 3}
 --- !u!1 &1324269195
 GameObject:
   m_ObjectHideFlags: 0
