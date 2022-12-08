@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3185281870607075622
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2846191748394685340}
+  - component: {fileID: 1211591195885149241}
+  - component: {fileID: 3977972098234149107}
+  m_Layer: 0
+  m_Name: solartransport
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2846191748394685340
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3185281870607075622}
+  m_LocalRotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 392799561565892554}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &1211591195885149241
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3185281870607075622}
+  m_Mesh: {fileID: 8710174506809253754, guid: 4e5b27b21779b064e9c189ed55335486, type: 3}
+--- !u!23 &3977972098234149107
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3185281870607075622}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: c57ded93f17955a439f25d88220ee4a4, type: 2}
+  - {fileID: 2100000, guid: e1592acf0906f5b48ab88f6274107874, type: 2}
+  - {fileID: 2100000, guid: 9367e54c5ab826743ab60e1ebf6992a1, type: 2}
+  - {fileID: 2100000, guid: 6fa995f71e35153499ecc67acf755c46, type: 2}
+  - {fileID: 2100000, guid: 70fcf55ddd2c9d9448db936d07eabdd8, type: 2}
+  - {fileID: 2100000, guid: b8ce90159b9456d46b32953dbc5a8cf6, type: 2}
+  - {fileID: 2100000, guid: d37aba0dadd2eec4397f6611b16b6a05, type: 2}
+  - {fileID: 2100000, guid: eca887832b66fac4db9fca35b0dca204, type: 2}
+  - {fileID: 2100000, guid: 747f5015c180b864e8a3dd2f2abb6f4c, type: 2}
+  - {fileID: 2100000, guid: 2f49ad3ea461197458baa1b0d661faa6, type: 2}
+  - {fileID: 2100000, guid: 387bc72585fdb214f8e8171422819928, type: 2}
+  - {fileID: 2100000, guid: ad762e45375994f4c99df5259af3a9c0, type: 2}
+  - {fileID: 2100000, guid: 107d6950002699a4e890caea09518ff9, type: 2}
+  - {fileID: 2100000, guid: 99be5c4845b9c47408b164dda1db2d6e, type: 2}
+  - {fileID: 2100000, guid: 4c5f19bcf82cac24c9d504022e5f80e1, type: 2}
+  - {fileID: 2100000, guid: 437006b86ae34014289541ba7af27f29, type: 2}
+  - {fileID: 2100000, guid: 66e54a1b0aebda9478c6b040c47dc70f, type: 2}
+  - {fileID: 2100000, guid: 1a60ea722543f8145bf56dbd7f588cfd, type: 2}
+  - {fileID: 2100000, guid: 2b85536c497cd3a418d9b182478ab1a1, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &5014746780965615469
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 392799561565892554}
+  m_Layer: 0
+  m_Name: solartransport
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &392799561565892554
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5014746780965615469}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2846191748394685340}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
